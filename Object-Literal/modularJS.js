@@ -38,3 +38,5 @@ var people = {
 };
 
 people.init();
+
+(function(){})()
